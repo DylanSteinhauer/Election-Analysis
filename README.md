@@ -1,7 +1,7 @@
 # Election-Analysis
 ## Purpose
 I was tasked with completing an election audit for a recent Congressional election in Colorado.
-My final code should provide the following information:
+My final code should provide the following information:\
 -total number of votes cast\
 -a complete list of candidates received\
 -percentage of votes each candidate won\
