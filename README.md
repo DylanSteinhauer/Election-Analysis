@@ -31,6 +31,7 @@ Arapahoe had 24,801 total votes, and 6.7% of the total vote.\
 Diana DeGette received 272,892 total votes, and 73.8% of the vote.
 Raymon Anthony Doane received 11,606 total votes, and 3.1% of the vote.\
 -Diana DeGette won the election with 272,892 total votes, and 73.8% of the vote. 
+[election_analysis.txt](https://github.com/DylanSteinhauer/Election-Analysis/files/7069898/election_analysis.txt)
 
 ## Election Audit Summary
 This script can be used for any election as long as the script is modified to match the data we are looking to analyze.
